@@ -59,7 +59,7 @@ Folder Structure
 
 ├── Figures/   # Saved plots
 
-├── Housing market stats/   # Data and code for descripttive analysis (section 2.1)
+├── Housing market stats/   # Data and code for descriptive analysis (section 2.1)
 
 ├── Scripts/   # main scripts
 
