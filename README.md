@@ -8,7 +8,7 @@ Emil Bories Hüttel – Aarhus University, 2025
 
 Overview
 
-This full thesis is available as a pdf in the repository 
+The full thesis is available as a pdf in the repository 
 
 The analysis is implemented in R version 4.2.2, and the scripts are organized into four stages:  
 - Data cleaning and preparation  
@@ -51,12 +51,19 @@ Folder Structure
 
 .
 ├── Data/
+
 ├── Figures/
+
 ├── Housing market stats/
+
 ├── Scripts/
+
 │   ├── Misc, appendix and old scripts/ 
+
 ├── Analysis.Rproj
+
 ├── Thesis.pdf
+
 └── README.txt
 
 -------------------------------------------------------------------------------
