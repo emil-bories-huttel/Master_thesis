@@ -55,19 +55,19 @@ These scripts may not run as-is and usually require the main pipeline to be exec
 
 Folder Structure
 
-├── Data/
+├── Data/   # raw data and processed data 
 
-├── Figures/
+├── Figures/   # Saved plots
 
-├── Housing market stats/
+├── Housing market stats/   # Data and code for descripttive analysis (section 2.1)
 
-├── Scripts/
+├── Scripts/   # main scripts
 
-│   ├── Misc, appendix and old scripts/ 
+│   ├── Misc, appendix and old scripts/ # Misc scripts 
 
-├── Analysis.Rproj
+├── Analysis.Rproj   # R project
 
-├── Thesis.pdf
+├── Thesis.pdf   # Thesis 
 
 └── README.txt
 
