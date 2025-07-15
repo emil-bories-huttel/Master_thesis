@@ -37,7 +37,7 @@ Please run the scripts in the following order:
 
 Script 4 Note:  
 Running the full 4 Bayesian model fitting script is NOT required unless you need to re-estimate certain models.  
-All Pre-estimated model objects can be downloaded here: [here](https://drive.google.com/drive/folders/1t5V34YY1P8jiDxWrskdYXdN9AcxAGRik?usp=sharing)   
+All Pre-estimated model objects can be downloaded [here](https://drive.google.com/drive/folders/1t5V34YY1P8jiDxWrskdYXdN9AcxAGRik?usp=sharing)   
 Running the entire script takes around 25 minutes on my setup.
 
 -------------------------------------------------------------------------------
