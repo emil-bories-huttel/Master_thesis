@@ -2,6 +2,7 @@ Master's Thesis – Building Beliefs: Are Danes Housing Supply Skeptics And Can 
 
 This repository contains all code and scripts used for my master’s thesis:  
 "Building Beliefs: Are Danes Housing Supply Skeptics And Can Such Beliefs Be Altered? Evidence from an RCT"
+
 Emil Bories Hüttel – Aarhus University, 2025
 
 -------------------------------------------------------------------------------
@@ -49,7 +50,6 @@ These scripts may not run as-is and usually require the main pipeline to be exec
 
 Folder Structure
 
-.
 ├── Data/
 
 ├── Figures/
