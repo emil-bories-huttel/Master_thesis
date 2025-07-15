@@ -39,7 +39,7 @@ Running the entire script takes around 25 minutes on my setup.
 
 Miscellaneous Scripts
 
-The Misc_Appendix_Etc/ folder contains:
+The Misc, appendix and old scripts/ folder contains:
 
 - Rough or experimental scripts  
 - Code for appendices or figures referenced in the thesis  
