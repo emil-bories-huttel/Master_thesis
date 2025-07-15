@@ -23,12 +23,12 @@ Script Execution Order
 
 Please run the scripts in the following order:
 
-1. 1 cleaning and sample composition/  
-2. 2 prior distribution/  
-3. 3 posterior distribution/  
-4. 4 Bayesian model fitting/ (optional – see below)
-5. 5 Likely interval plotting 
-6. 6 Learning plots  
+1 cleaning and sample composition/  
+2 prior distribution/  
+3 posterior distribution/  
+4 Bayesian model fitting/ (optional – see below)
+5 Likely interval plotting 
+6 Learning plots  
 
 Script 4 Note:  
 Running the full 4 Bayesian model fitting script is NOT required unless you need to re-estimate certain models.  
