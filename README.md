@@ -31,7 +31,7 @@ Please run the scripts in the following order:
 6. 6 Learning plots  
 
 Script 4 Note:  
-Running the full 4_post_estimation script is NOT required unless you need to re-estimate certain models.  
+Running the full 4 Bayesian model fitting script is NOT required unless you need to re-estimate certain models.  
 All Pre-estimated model objects can be downloaded here: https://drive.google.com/drive/folders/1T9Ql4-0_MRS8L7A32SJ-GAev2vJ9PgT2?usp=drive_link   
 Running the entire script takes around 25 minutes on my setup.
 
