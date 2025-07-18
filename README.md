@@ -1,5 +1,3 @@
-Master's Thesis – Building Beliefs: Are Danes Housing Supply Skeptics And Can Such Beliefs Be Altered? Evidence from an RCT
-
 This repository contains all code and scripts used for my master’s thesis:  
 "Building Beliefs: Are Danes Housing Supply Skeptics And Can Such Beliefs Be Altered? Evidence from an RCT"
 
@@ -9,13 +7,13 @@ Emil Bories Hüttel – Aarhus University, 2025
 
 Overview
 
-The full thesis is available as a pdf in the repository 
+The full thesis is available as a PDF in the repository. It broadly examines the measurement of supply skepticism and investigates Bayesian updating behavior related to supply skepticism within the Danish electorate. 
 
 The analysis is implemented in R version 4.2.2, and the scripts are organized into four stages:  
 - Data cleaning and preparation  
 - Prior and posterior distribution modelling (supply skepticism)
 - Model estimation  
-- Post-estimation analysis
+- Post-estimation analysis and vizualisation. 
 
 -------------------------------------------------------------------------------
 
@@ -38,7 +36,7 @@ Please run the scripts in the following order:
 Script 4 Note:  
 Running the full 4 Bayesian model fitting script is NOT required unless you need to re-estimate certain models.  
 All Pre-estimated model objects can be downloaded [here](https://drive.google.com/drive/folders/1t5V34YY1P8jiDxWrskdYXdN9AcxAGRik?usp=sharing)   
-Running the entire script takes around 25 minutes on my setup.
+Running the entire script takes around 25 minutes on my setup. The models sample very efficiently; the primary bottleneck is the time required for brms to compile the underlying Stan code. 
 
 -------------------------------------------------------------------------------
 
