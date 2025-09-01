@@ -61,7 +61,7 @@ Folder Structure
 
 ├── Scripts/   # main scripts
 
-│   ├── Misc, appendix and old scripts/ # Misc scripts 
+│   └── Misc, appendix and old scripts/ # Misc scripts 
 
 ├── Analysis.Rproj   # R project
 
